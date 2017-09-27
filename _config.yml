@@ -23,12 +23,12 @@ description: 托管在github上的个人博客
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  关于我: "aboutme"
+  资源:
     - Beautiful Jekyll: "https://lzssing.github.io"
     - Learn markdown: "https://lzssing.github.io"
     - GitHub Pages: "https://lzssing.github.io"
-  Author's home: "https://lzssing.github.io"
+  个人主页: "https://lzssing.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
