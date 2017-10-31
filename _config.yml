@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 罗正官
+title: Lzssing
 
 # Short description of your site
 description: 托管在github上的个人博客
@@ -25,10 +25,9 @@ description: 托管在github上的个人博客
 navbar-links:
   关于我: "aboutme"
   资源:
-    - Beautiful Jekyll: "https://lzssing.github.io"
-    - Learn markdown: "https://lzssing.github.io"
-    - GitHub Pages: "https://lzssing.github.io"
-  个人主页: "https://lzssing.github.io/page/index.html"
+    - GitHub: "https://www.github.com"
+    - Coding: "https://coding.net"
+  个人主页: "https://lzssing.github.io/page/index/index.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
