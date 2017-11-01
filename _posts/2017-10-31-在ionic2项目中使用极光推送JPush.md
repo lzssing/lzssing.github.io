@@ -1,6 +1,6 @@
 ### 极光推送JPush
 #### 参考文档 
-1. [极光推送开发服务应用信息 ](https://www.jiguang.cn/dev/#/app/6706df86ca9041cf447794d4/info)
+1. [极光推送开发服务应用信息 ](https://www.jiguang.cn/dev/#/app/6706df86ca9041cf447794d4/info)  [极光官方文档](https://docs.jiguang.cn/)
 2. [JPush Cordova插件 ](https://github.com/jpush/jpush-phonegap-plugin)
 3. [JPush API PHP Client ](https://github.com/jpush/jpush-api-php-client)
 4. [极光推送服务端 REST API ](https://docs.jiguang.cn/jpush/server/push/server_overview/)
